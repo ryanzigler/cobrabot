@@ -1,7 +1,7 @@
 {
   "name": "cobrabot",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "author": "rpzigler@gmail.com>",
   "description": "Rage quits board games when losig",
   "dependencies": {
